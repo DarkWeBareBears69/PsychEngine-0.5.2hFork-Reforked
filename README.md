@@ -8,3 +8,6 @@ There are memory issues with input, dunno what to do but here is it lol
 (No, it doesn't use KE timings, only Input `keyShit`, it uses the same timings as 0.5.2h)
 
 Also you might get the "two_keys" achievement even though you pressed all keys prob, achievements are kinda broken ngl (only that one I hope)
+
+planned features:
+[] backporting features from psych engine 0.6.0 - 1.0.4
